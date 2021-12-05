@@ -9,8 +9,8 @@ recursion(n-1);
 
 }
 int main(){
-int n;
-cin>>n;
-recursion(n);
+int num;
+cin>>num;
+recursion(num);
 
 }
